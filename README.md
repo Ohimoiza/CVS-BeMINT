@@ -10,5 +10,6 @@ Main Programming Languages: JavaScript and Python. HTML and CSS would be used at
 ## Authors:
 * [Ohi Moiza](https://github.com/Ohimoiza)
 * [Haruna Faruk](https://github.com/Haruna2004)
+* [Emmanuel Adebayo](https://github.com/Emmanuel1321)
 * [Lekan Olaoye](https://github.com/devv-leo)
-* Emmanuel Adebayo
+
