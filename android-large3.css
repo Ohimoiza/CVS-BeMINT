@@ -1,0 +1,211 @@
+.android-large3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.android-large3-android-large3 {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(245, 237, 255, 1);
+}
+.android-large3-text {
+  top: 210px;
+  left: 16px;
+  color: rgba(112, 0, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large3-rectangle2 {
+  top: 345px;
+  left: 16px;
+  width: 300px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.android-large3-rectangle5 {
+  top: 270px;
+  left: 15px;
+  width: 300px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.android-large3-text02 {
+  top: 352px;
+  left: 29px;
+  color: rgba(0, 0, 0, 0.25);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large3-text04 {
+  top: 277px;
+  left: 29px;
+  color: rgba(0, 0, 0, 0.25);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large3-frame1 {
+  top: 77px;
+  left: 54px;
+  width: 45px;
+  height: 20px;
+  position: absolute;
+}
+.android-large3-text06 {
+  top: 711px;
+  left: 49px;
+  color: rgba(41, 45, 50, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large3-group1 {
+  top: 658px;
+  left: 75px;
+  width: 211px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(0, 0, 0, 1);
+}
+.android-large3-text08 {
+  top: 5px;
+  left: 57px;
+  color: rgba(255, 255, 255, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large3-text10 {
+  top: 400px;
+  left: 208px;
+  color: rgba(12, 12, 12, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large3-group16 {
+  top: 512px;
+  left: 63px;
+  width: 249.4114990234375px;
+  height: 78px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.android-large3-googlelogopng295461 {
+  top: 4.952381134033203px;
+  left: 0px;
+  width: 62px;
+  height: 69px;
+  position: absolute;
+}
+.android-large3-pngegg11 {
+  top: 12px;
+  left: 93px;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+}
+.android-large3-pngegg21 {
+  top: 0px;
+  left: 180px;
+  width: 69px;
+  height: 78px;
+  position: absolute;
+}
+.android-large3-text12 {
+  top: 478px;
+  left: 132px;
+  color: rgba(12, 12, 12, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large3-text14 {
+  top: 442px;
+  left: 166px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
